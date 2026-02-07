@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+uploads/
+frontend/.next/
+frontend/node_modules/
+node_modules/
+.DS_Store
+db.sqlite3

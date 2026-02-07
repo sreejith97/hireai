@@ -1,0 +1,3 @@
+Employee ID,First Name,Last Name,Gender,Date of Birth,Age,Department,Job Title,Employment Type,Date of Joining,Experience (Years),Salary (Monthly),Phone Number,Email,City,State,Country,Manager ID,Status
+EMP001,Rahul,Menon,Male,5/12/98,26,IT,Software Engineer,Full-Time,7/1/22,2.5,45000,9876543210,rahul.m@company.com,Kochi,Kerala,India,EMP010,Active
+EMP002,Anjali,Nair,Female,11/23/97,27,HR,HR Executive,Full-Time,4/15/21,3.8,38000,9876543221,anjali.n@company.com,Trivandrum,Kerala,India,EMP011,Active
